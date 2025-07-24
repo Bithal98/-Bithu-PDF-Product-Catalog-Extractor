@@ -1,5 +1,5 @@
-# -Bithu-PDF-Product-Catalog-Extractor
-A powerful AI-based Streamlit application that extracts structured product data—like category, name, size, and specifications—from tile and ceramic product catalogs in PDF or image formats.  Utilizes Google Gemini 2.5 Pro to intelligently analyze brochure pages and outputs clean JSON and SQLite-stored data, enabling fast product indexing.
+<img width="1913" height="920" alt="Screenshot 2025-07-24 231440" src="https://github.com/user-attachments/assets/b2ecd3bf-bcc7-4bbf-86a5-19f8500201ab" />
+
 
 # 📦 Bithu PDF Product Catalog Extractor
 
